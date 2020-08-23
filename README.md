@@ -8,8 +8,8 @@
 
 # The imoprtant steps
 1- Create an account in io.adafruit.com
-2-Create the feeds(Door,humidity,temperature,room1,rrom2)
-3-Create a dashboard
+2- Create the feeds(Door,humidity,temperature,room1,rrom2)
+3- Create a dashboard
 4-Add the blocks into dashborad(gauge,line chart,togle,indicator)
 5-Install the important adafruit library into raspberry pi (pip3 install adafruit-io)
 6-Connect the components (led,servo motor) into GPIO of raspberry pi
