@@ -14,4 +14,6 @@
 - 5 Install the important adafruit library into raspberry pi (pip3 install adafruit-io)
 - 6 Connect the components (led,servo motor) into GPIO of raspberry pi
 - 7 Download the code from the link and update you username and active key
+# Connection wires
+
 
