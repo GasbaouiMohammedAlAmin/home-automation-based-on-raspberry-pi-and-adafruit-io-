@@ -16,4 +16,6 @@
 - 7 Download the code from the link and update you username and active key
 # Connection wires
 
+![](connection_wires.jpg)
+
 
