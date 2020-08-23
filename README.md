@@ -3,5 +3,5 @@
 - from this python code you can control 2 led ,a servo motor and sending a random value into adafruit io cloud which represent a temperature and humidity
 - the servo motor turns automatically into right when the led 1 turns on and the indicator switch into green color in the dashboard indicates that the door opened
 - when the led 1 turned off the servo motor turns automatically into left and the color of indicator become red  
-![](imm.png)
+![](IMG_20200822_135441_2.png)
 
