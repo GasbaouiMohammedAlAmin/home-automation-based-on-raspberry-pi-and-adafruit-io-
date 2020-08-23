@@ -7,7 +7,7 @@
 ![](IMG_20200822_135441_2.jpg)
 
 # The imoprtant steps
-1-Create an account in io.adafruit.com
+1- Create an account in io.adafruit.com
 2-Create the feeds(Door,humidity,temperature,room1,rrom2)
 3-Create a dashboard
 4-Add the blocks into dashborad(gauge,line chart,togle,indicator)
