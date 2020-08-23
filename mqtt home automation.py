@@ -1,7 +1,6 @@
 # Import standard python modules.
 import random
 import sys
-import time
 import RPi.GPIO as GPIO
 import time
 from Adafruit_IO import MQTTClient
