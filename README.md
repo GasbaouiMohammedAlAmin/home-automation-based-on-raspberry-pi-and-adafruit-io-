@@ -19,6 +19,7 @@
 ![](connection_wires.png)
 
 # Explanation video
+https://www.youtube.com/watch?v=rGwRNKnDoMw
 
 
 
