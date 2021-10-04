@@ -82,8 +82,8 @@ client.connect()
 # doing things in your program.
 client.loop_background()
 # Now send new values every 10 seconds.
-tim=10
-print('Publishing a new message every ' ,time,'seconds (press Ctrl-C to quit)...')
+interval=10
+print('Publishing a new message every ' , interval,'seconds (press Ctrl-C to quit)...')
 while True:
     temp = random_val(0,50)
     print(' temperature value {0} {1}'.format(temp,"C °"))
@@ -91,6 +91,6 @@ while True:
     hum = random_val(7,100)
     print(' humidity value {0} {1}'.format(hum,"%"))
     client.publish('humidity', hum)
-    time.sleep(tim)
+    time.sleep(interval)
 
 
