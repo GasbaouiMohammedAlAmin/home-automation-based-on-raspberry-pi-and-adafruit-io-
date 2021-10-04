@@ -83,7 +83,7 @@ client.connect()
 client.loop_background()
 # Now send new values every 10 seconds.
 tim=10
-print('Publishing a new message every ' ,time,'seconds (press Ctrl-C to quit)...')
+print('Publishing a new message every ' ,tim,'seconds (press Ctrl-C to quit)...')
 while True:
     temp = random_val(0,50)
     print(' temperature value {0} {1}'.format(temp,"C °"))
